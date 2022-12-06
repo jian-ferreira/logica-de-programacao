@@ -4,7 +4,7 @@
 // valor que está em A passe para B e vice-versa. Ao final, escrever os valores que ficaram armazenados
 // nas variáveis.
 
-package com.jianferreira.logicadeprogramacao.exercicio1;
+package com.jianferreira.logicadeprogramacao.trocadevalores;
 
 public class Program {
     public static void main(String[] args) {
